@@ -1,0 +1,1412 @@
+[
+  {
+    "admission_no": "EIS-1001",
+    "first_name": "Ananya",
+    "last_name": "Sharma",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-02-20",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 63
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 64
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 42
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 48
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 58
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1002",
+    "first_name": "Sanjana",
+    "last_name": "Verma",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-10-19",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 64
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 68
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 58
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 63
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 55
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1003",
+    "first_name": "Krishan",
+    "last_name": "Yadav",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-04-23",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 65
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 55
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 61
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 72
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1004",
+    "first_name": "Tanish",
+    "last_name": "Gupta",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-08-14",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 89
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 100
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 83
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 88
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 87
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1005",
+    "first_name": "Chandini",
+    "last_name": "Saini",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-03-23",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 90
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 90
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 82
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 95
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 94
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1006",
+    "first_name": "Pankaj",
+    "last_name": "Tanwar",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-09-17",
+    "marks": [
+      {
+        "subject": "Hindi",
+        "marks_obtained": 66
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 50
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 69
+      },
+      {
+        "subject": "English",
+        "marks_obtained": 72
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1007",
+    "first_name": "Vivaan",
+    "last_name": "Pandey",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-10-16",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 67
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 60
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 54
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 53
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 70
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1008",
+    "first_name": "Arjun",
+    "last_name": "Sharma",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-05-26",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 65
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 65
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 72
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 77
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1009",
+    "first_name": "Aditya",
+    "last_name": "Gupta",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-07-22",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 81
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 97
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 93
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 100
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 92
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1010",
+    "first_name": "Rohit",
+    "last_name": "Verma",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-11-19",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 85
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 79
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 73
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 73
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1011",
+    "first_name": "Kavya",
+    "last_name": "Singh",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-01-18",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 67
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 70
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 56
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 68
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 66
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1012",
+    "first_name": "Diya",
+    "last_name": "Joshi",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-02-13",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 89
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 81
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 87
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 78
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 92
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1013",
+    "first_name": "Riya",
+    "last_name": "Soni",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-03-26",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 54
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 65
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 64
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1014",
+    "first_name": "Pooja",
+    "last_name": "Yadav",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-05-26",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 83
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 78
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 62
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 67
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 82
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1015",
+    "first_name": "Neha",
+    "last_name": "Saini",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-01-19",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 60
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 54
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 45
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 55
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 56
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1016",
+    "first_name": "Isha",
+    "last_name": "Purohit",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-10-24",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 81
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 73
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 80
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 80
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1017",
+    "first_name": "Tara",
+    "last_name": "Rathore",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-02-27",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 63
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 59
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 55
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 47
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 66
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1018",
+    "first_name": "Dev",
+    "last_name": "Shekhawat",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-06-24",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 84
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 85
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 77
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1019",
+    "first_name": "Yash",
+    "last_name": "Choudhary",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-03-21",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 89
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 76
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 79
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 82
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 75
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1020",
+    "first_name": "Ravi",
+    "last_name": "Bijarnia",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-01-21",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 75
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 86
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 78
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 79
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1021",
+    "first_name": "Suresh",
+    "last_name": "Kulhari",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-12-16",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 65
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 58
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 66
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 76
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1022",
+    "first_name": "Mahesh",
+    "last_name": "Burdak",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-06-18",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 83
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 82
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 72
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 80
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 80
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1023",
+    "first_name": "Deepak",
+    "last_name": "Dhaka",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-06-24",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 98
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 84
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 76
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 76
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 79
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1024",
+    "first_name": "Vikas",
+    "last_name": "Godara",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-08-28",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 76
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 75
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 70
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1025",
+    "first_name": "Nitin",
+    "last_name": "Mahala",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-08-15",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 72
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 72
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 60
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 76
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 81
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1026",
+    "first_name": "Rahul",
+    "last_name": "Sihag",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-11-18",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 59
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 47
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 40
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 44
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 55
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1027",
+    "first_name": "Kartik",
+    "last_name": "Beniwal",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-09-23",
+    "marks": [
+      {
+        "subject": "Science",
+        "marks_obtained": 61
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 60
+      },
+      {
+        "subject": "English",
+        "marks_obtained": 64
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 50
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 39
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1028",
+    "first_name": "Parth",
+    "last_name": "Poonia",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-12-19",
+    "marks": [
+      {
+        "subject": "Social Science",
+        "marks_obtained": 61
+      },
+      {
+        "subject": "English",
+        "marks_obtained": 64
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 63
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 58
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 46
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1029",
+    "first_name": "Harsh",
+    "last_name": "Bhaskar",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-12-14",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 51
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 49
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 52
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 46
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 51
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1030",
+    "first_name": "Bhavya",
+    "last_name": "Sharma",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-10-15",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 58
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 48
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 37
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 48
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 47
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1031",
+    "first_name": "Ekta",
+    "last_name": "Verma",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-05-25",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 60
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 77
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 50
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 55
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 72
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1032",
+    "first_name": "Juhi",
+    "last_name": "Gupta",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-07-18",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 50
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 61
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 59
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1033",
+    "first_name": "Kirti",
+    "last_name": "Singh",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-05-25",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 100
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 92
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 88
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 94
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 84
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1034",
+    "first_name": "Lakshita",
+    "last_name": "Joshi",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-11-27",
+    "marks": [
+      {
+        "subject": "Social Science",
+        "marks_obtained": 62
+      },
+      {
+        "subject": "English",
+        "marks_obtained": 87
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 88
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 87
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 85
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1035",
+    "first_name": "Mohit",
+    "last_name": "Soni",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-11-24",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 61
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 58
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 44
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 48
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 45
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1036",
+    "first_name": "Nikhil",
+    "last_name": "Sharma",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-07-16",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 86
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 81
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 72
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 83
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 81
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1037",
+    "first_name": "Payal",
+    "last_name": "Saini",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-07-18",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 90
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 94
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 76
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 80
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 79
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1038",
+    "first_name": "Ritu",
+    "last_name": "Purohit",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-12-22",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 73
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 78
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 75
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 70
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 77
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1039",
+    "first_name": "Seema",
+    "last_name": "Rathore",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-05-20",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 72
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 73
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 52
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 54
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 61
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1040",
+    "first_name": "Aarav",
+    "last_name": "Joshi",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-10-23",
+    "marks": [
+      {
+        "subject": "Science",
+        "marks_obtained": 92
+      },
+      {
+        "subject": "English",
+        "marks_obtained": 100
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 100
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 92
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 95
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1041",
+    "first_name": "Mira",
+    "last_name": "Choudhary",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-05-28",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 84
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 86
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 73
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 89
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 73
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1042",
+    "first_name": "Om",
+    "last_name": "Bijarnia",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-09-19",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 56
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 54
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 35
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 42
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 41
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1043",
+    "first_name": "Kirti",
+    "last_name": "Beniwal",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-06-21",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 76
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": null
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 74
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 81
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 77
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1044",
+    "first_name": "Deepika",
+    "last_name": "Kulhari",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-02-16",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 75
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 60
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 64
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 62
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1045",
+    "first_name": "Sunil",
+    "last_name": "Burdak",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-12-21",
+    "marks": [
+      {
+        "subject": "Hindi",
+        "marks_obtained": 57
+      },
+      {
+        "subject": "English",
+        "marks_obtained": 47
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 51
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 49
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 46
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1046",
+    "first_name": "Rekha",
+    "last_name": "Dhaka",
+    "class_name": "6",
+    "section": "B",
+    "date_of_birth": "2014-09-13",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 68
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 70
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 54
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 62
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 59
+      }
+    ]
+  },
+  {
+    "admission_no": "EIS-1047",
+    "first_name": "Vimla",
+    "last_name": "Godara",
+    "class_name": "6",
+    "section": "A",
+    "date_of_birth": "2014-07-23",
+    "marks": [
+      {
+        "subject": "English",
+        "marks_obtained": 87
+      },
+      {
+        "subject": "Hindi",
+        "marks_obtained": 71
+      },
+      {
+        "subject": "Maths",
+        "marks_obtained": 66
+      },
+      {
+        "subject": "Science",
+        "marks_obtained": 66
+      },
+      {
+        "subject": "Social Science",
+        "marks_obtained": 82
+      }
+    ]
+  }
+]
